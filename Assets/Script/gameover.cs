@@ -6,7 +6,7 @@ public class gameover : MonoBehaviour {
 {
 	if (collision.gameObject.tag == "Player")
 	{
-		SceneManager.LoadScene ("controls");
+		SceneManager.LoadScene ("gameover");
 		
 	}
 }
