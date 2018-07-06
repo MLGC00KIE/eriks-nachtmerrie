@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - AIWALLS
+  - Enemy
+  - Bullet
+  - Teleporter1
+  - Enemy2
+  - Enemy3
+  - Enemy4
+  - Teleporter2
+  - Teleporter3
+  - Enemy5
   layers:
   - Default
   - TransparentFX
@@ -39,6 +48,30 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3995698593
+    locked: 0
+  - name: planets
+    uniqueID: 1272452791
+    locked: 0
+  - name: mountians
+    uniqueID: 2320562873
+    locked: 0
+  - name: cave
+    uniqueID: 2762023999
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: livesred
+    uniqueID: 2725275077
+    locked: 0
+  - name: livesgreen
+    uniqueID: 1223042081
+    locked: 0
+  - name: slime
+    uniqueID: 1517438547
+    locked: 0
+  - name: blokos
+    uniqueID: 2960800663
     locked: 0
